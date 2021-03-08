@@ -1,0 +1,18 @@
+.navbarContainer {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+}
+.navbarContainer a{
+   padding: 0px 30px;
+   text-decoration: none;
+   color: aliceblue;
+}
+.navbarContainer a:hover{
+    background-color: aqua;
+}
+.container{
+    background-color: blue;
+}
